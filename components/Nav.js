@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 // import { useState } from "react";
 import Image from "next/image";
-import Header from "../public/images/Header.png";
+import header from "../public/images/header.png";
 import logo_mv from "../public/images/logo_mv.png";
 import logo_wv from "../public/images/logo_wv.png";
 import close from "../public/images/close.png";
