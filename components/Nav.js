@@ -17,7 +17,7 @@ function Nav() {
   return (
     <>
       <div className="relative inline-block">
-        <Image src={Header} />
+        <Image src={header} />
         {/* <div className="absolute z-10 top-0 ml-28 mt-24 md:ml-[15rem] md:mt-44 lg:ml-[30rem] lg:mt-96">
           <p className="text-white text-center text-2xl md:text-5xl lg:text-7xl">Fintract Global</p>
         </div> */}
